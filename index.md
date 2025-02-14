@@ -10,7 +10,7 @@ _________________________________________________
 <https://onedrive.live.com/login>  
 <https://outlook.live.com>  
 _________________________________________________  
-<https://docs.qq.com/desktop>  
+<https://docs.qq.com>  
 <https://www.weiyun.com>  
 _________________________________________________  
 <https://www.deepseek.com>  
