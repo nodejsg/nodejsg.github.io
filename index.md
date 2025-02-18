@@ -19,9 +19,7 @@ _________________________________________________
 _________________________________________________  
 <https://app.diandian.com/rank/ios>  
 _________________________________________________  
-<https://tt5.ttcl.cc/search>  
 <https://123.quark.cn>  
-_________________________________________________  
 <https://hot.sapi.run/>  
 <https://tophub.today/>  
 <https://rebang.today/>  
@@ -32,3 +30,4 @@ _________________________________________________
 <https://mobile.softpedia.com/apk/onedrive>  
 <https://mobile.softpedia.com/apk/microsoft-to-do>  
 <https://xdaforums.com/c/oneplus.11993>  
+<https://tt5.ttcl.cc/search>  
