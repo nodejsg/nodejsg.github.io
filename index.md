@@ -10,6 +10,7 @@ _________________________________________________
 <https://onedrive.live.com/login>  
 <https://outlook.live.com>  
 <https://onedrive.live.com>  
+<https://simplenote.com/>  
 _________________________________________________  
 <https://docs.qq.com>  
 <https://www.weiyun.com>  
