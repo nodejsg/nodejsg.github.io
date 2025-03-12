@@ -18,6 +18,7 @@ _________________________________________________
 <https://www.weiyun.com>  
 <https://mail.163.com/>  
 <https://pan.baidu.com/>  
+<https://mail.qq.com/>  
 _________________________________________________  
 <https://www.deepseek.com>  
 <https://www.n.cn/>  
