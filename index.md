@@ -10,6 +10,9 @@ _________________________________________________
 <https://onedrive.live.com/login>  
 <https://outlook.live.com>  
 <https://onedrive.live.com>  
+<https://app.standardnotes.com/>  
+<https://app.notesnook.com/>  
+_________________________________________________  
 <https://larksuite.com/drive/home/>  
 <https://www.zoho.com/>  
 _________________________________________________  
