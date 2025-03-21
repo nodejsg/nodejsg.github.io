@@ -11,7 +11,6 @@ _________________________________________________
 <https://outlook.live.com>  
 <https://onedrive.live.com>  
 <https://larksuite.com/drive/home/>  
-<https://simplenote.com/>  
 <https://www.zoho.com/>  
 _________________________________________________  
 <https://docs.qq.com>  
@@ -38,3 +37,5 @@ _________________________________________________
 <https://mobile.softpedia.com/apk/microsoft-to-do>  
 <https://xdaforums.com/c/oneplus.11993>  
 <https://tt5.ttcl.cc/search>  
+_________________________________________________  
+<https://simplenote.com/>  
