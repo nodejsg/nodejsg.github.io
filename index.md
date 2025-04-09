@@ -39,5 +39,8 @@ _________________________________________________
 <https://mobile.softpedia.com/apk/onedrive>  
 <https://xdaforums.com/c/oneplus.11993>  
 <https://tt5.ttcl.cc/search>  
+<https://firefox-ci-tc.services.mozilla.com/tasks/index/gecko.v2.mozilla-release.latest.mobile/fenix-release>  
+<https://firefox-ci-tc.services.mozilla.com/tasks/index/gecko.v2.mozilla-beta.latest.mobile/fenix-beta>  
+<https://firefox-ci-tc.services.mozilla.com/tasks/index/gecko.v2.mozilla-central.latest.mobile/fenix-nightly>  
 _________________________________________________  
 ~~<https://simplenote.com/>~~  
