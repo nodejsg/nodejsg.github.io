@@ -13,6 +13,7 @@ _________________________________________________
 **<https://app.standardnotes.com/>**  
 **<https://app.raindrop.io/>**  
 <https://app.notesnook.com/>  
+<https://accounts.firefox.com/>  
 _________________________________________________  
 <https://larksuite.com/drive/home/>  
 <https://www.zoho.com/>  
@@ -43,5 +44,7 @@ _________________________________________________
 <https://firefox-ci-tc.services.mozilla.com/tasks/index/gecko.v2.mozilla-release.latest.mobile/fenix-release>  
 <https://firefox-ci-tc.services.mozilla.com/tasks/index/gecko.v2.mozilla-beta.latest.mobile/fenix-beta>  
 <https://firefox-ci-tc.services.mozilla.com/tasks/index/gecko.v2.mozilla-central.latest.mobile/fenix-nightly>  
+<https://github.com/laurent22/joplin-android/releases>  
+<https://obsidian.md/download>  
 _________________________________________________  
 ~~<https://simplenote.com/>~~  
