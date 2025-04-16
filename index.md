@@ -13,7 +13,7 @@ _________________________________________________
 **<https://app.standardnotes.com/>**  
 **<https://app.raindrop.io/>**  
 <https://app.notesnook.com/>  
-<https://accounts.firefox.com/>  
+*<https://accounts.firefox.com/>*  
 _________________________________________________  
 <https://larksuite.com/drive/home/>  
 <https://www.zoho.com/>  
