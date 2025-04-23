@@ -15,6 +15,7 @@ ________________________________________________
 <https://app.notesnook.com/>  
 *<https://accounts.firefox.com/>*  
 ________________________________________________  
+<https://app.capacities.io>  
 <https://larksuite.com/drive/home/>  
 <https://www.zoho.com/>  
 ________________________________________________-  
