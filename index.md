@@ -14,10 +14,6 @@ ________________________________________________
 **<https://app.raindrop.io/>**  
 <https://app.notesnook.com/>  
 *<https://accounts.firefox.com/>*  
-________________________________________________  
-<https://app.capacities.io>  
-<https://larksuite.com/drive/home/>  
-<https://www.zoho.com/>  
 ________________________________________________-  
 *<https://docs.qq.com>*  
 *<https://www.weiyun.com>*  
@@ -48,4 +44,8 @@ ________________________________________________
 <https://github.com/laurent22/joplin-android/releases>  
 <https://obsidian.md/download>  
 ________________________________________________  
+<https://app.capacities.io>  
+<https://larksuite.com/drive/home/>  
+________________________________________________  
+<https://www.zoho.com/>  
 ~~<https://simplenote.com/>~~  
