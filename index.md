@@ -3,6 +3,7 @@ tp01-gogogo  <https://markdown.com.cn/basic-syntax/line-breaks.html>
 <https://www.hao123.com>  
 <https://123.sogou.com>  
 <https://123.quark.cn>  
+<https://global.bing.com/?setmkt=en-US&setlang=en/translator>  
 ________________________________________________-  
 *<https://www.alipan.com/drive/home>*  
 **<https://www.kdocs.cn/latest>**  
