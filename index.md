@@ -8,7 +8,7 @@ tp01-gogogo  <https://markdown.com.cn/basic-syntax/line-breaks.html>
 ________________________________________________-  
 web app first  
 *<https://www.alipan.com/drive/home>*  
-***<https://www.kdocs.cn//share>***  
+***<https://www.kdocs.cn/share>***  
 **<https://dida365.com/webapp>**  
 ________________________________________________  
 ***<https://app.standardnotes.com>***  
