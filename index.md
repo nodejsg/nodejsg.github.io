@@ -14,7 +14,7 @@ ________________________________________________
 ***<https://app.standardnotes.com>***  
 **<https://to-do.live.com/tasks/myday>**  
 <https://onedrive.live.com/login>  **<https://onedrive.live.com>**  
-<https://outlook.live.com>  
+<https://outlook.live.com/calendar>  
 **<https://app.raindrop.io>**  
 ———  
 **<https://www.icloud.com>**  
