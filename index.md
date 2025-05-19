@@ -10,7 +10,7 @@ ________________________________________________-
 **<https://dida365.com/webapp>**  
 *<https://www.alipan.com/drive/home>*  
 ________________________________________________  
-web app first  
+web app first  /  if od quit  
 ***<https://app.standardnotes.com>***  
 **<https://to-do.live.com/tasks/myday>**  
 <https://onedrive.live.com/login>  **<https://onedrive.live.com>**  
