@@ -46,6 +46,14 @@ ________________________________________________
 <https://github.com/laurent22/joplin-android/releases>  
 <https://obsidian.md/download>  
 ________________________________________________  
+<https://www.crx4chrome.com/extensions/gcalenpjmijncebpfijmoaglllgpjagf/>  
+<https://www.crx4chrome.com/extensions/bgnkhhnnamicmpeenaelnjfhikgbkllg/>  
+<https://www.crx4chrome.com/extensions/oifijhaokejakekmnjmphonojcfkpbbh/>  
+<https://www.crx4chrome.com/extensions/micdllihgoppmejpecmkilggmaagfdmb/>  
+<https://www.crx4chrome.com/extensions/nimllkpgmmbdglnjneeakdgcpkbgbfbp/>  
+<https://www.crx4chrome.com/extensions/iaiomicjabeggjcfkbimgmglanimpnae/>  
+<https://www.crx4chrome.com/extensions/gjldcdngmdknpinoemndlidpcabkggco/>  
+________________________________________________  
 <https://app.notesnook.com>  
 <https://app.capacities.io>  
 <https://larksuite.com/drive/home>  
