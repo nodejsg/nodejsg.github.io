@@ -6,14 +6,14 @@ tp01-go22343234  <https://markdown.com.cn/basic-syntax/line-breaks.html>
 <https://hao.360.com>  
 <https://global.bing.com/?setmkt=en-US&setlang=en/translator>  
 ________________________________________________-    
-***<https://www.kdocs.cn/share>***  
+***<https://www.kdocs.cn/share>***  nas  
 **<https://dida365.com/webapp>**  
-*<https://www.alipan.com/drive/home>*  
+*<https://www.alipan.com/drive/home>*  cry  
 ________________________________________________  
 web app first  /  if od quit  
-***<https://app.standardnotes.com>***  
+***<https://app.standardnotes.com>***  docker  
 **<https://to-do.live.com/tasks/myday>**  
-<https://onedrive.live.com/login>  **<https://onedrive.live.com>**  
+<https://onedrive.live.com/login>  **<https://onedrive.live.com>**  cry  
 <https://outlook.live.com/calendar>  
 ———  
 *<https://accounts.firefox.com>*  
