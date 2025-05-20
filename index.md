@@ -10,7 +10,7 @@ ________________________________________________-
 **<https://dida365.com/webapp>**  
 *<https://www.alipan.com/drive/home>*  cry  
 ________________________________________________  
-web app first  /  if od quit  /  if cloud over use scrcpy  
+web app first  /  if od quit  /  if cloud over use QtScrcpy&wetype  
 ***<https://app.standardnotes.com>***  docker  
 **<https://to-do.live.com/tasks/myday>**  
 <https://onedrive.live.com/login>  **<https://onedrive.live.com>**  cry  
