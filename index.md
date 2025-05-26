@@ -1,4 +1,4 @@
-# INFINITI Harōkiti cloud
+# INFINITI Harōkiti cloud  
 tp01-go22343234  
 ________________________________________________  
 <https://www.hao123.com>  
@@ -7,13 +7,13 @@ ________________________________________________
 <https://hao.360.com>  
 <https://global.bing.com/?setmkt=en-US&setlang=en/translator>  
 \\  
-________________________________________________    
+________________________________________________  
 ***<https://www.kdocs.cn/share>***  cry/nas  
 **<https://dida365.com/webapp>**  
 ________________________________________________  
 web app first  /  if od quit  /  if cloud quit use QtScrcpy&wetype/ftp  
-***<https://app.standardnotes.com>***  cry/self-hosted(docker)  
-**<https://to-do.live.com/tasks/myday>**  nas
+***<https://app.standardnotes.com>***  cry(documents)/self-hosted(docker)  
+**<https://to-do.live.com/tasks/myday>**  cry(documents)/nas  
 <https://onedrive.live.com/login>  **<https://onedrive.live.com>**  cry/nas  
 <https://outlook.live.com/calendar>  
 ________________________________________________  
