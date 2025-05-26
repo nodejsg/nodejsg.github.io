@@ -1,6 +1,6 @@
 # INFINITI Harōkiti cloud
-tp01-go22343234  <https://markdown.com.cn/basic-syntax/line-breaks.html>  
-———  
+tp01-go22343234  
+——  
 <https://www.hao123.com>  
 <https://123.sogou.com>  
 <https://123.quark.cn>  
@@ -9,10 +9,9 @@ tp01-go22343234  <https://markdown.com.cn/basic-syntax/line-breaks.html>
 ________________________________________________-    
 ***<https://www.kdocs.cn/share>***  nas  
 **<https://dida365.com/webapp>**  
-*<https://www.alipan.com/drive/home>*  cry  
 ________________________________________________  
 web app first  /  if od quit  /  if cloud quit use QtScrcpy&wetype/ftp  
-***<https://app.standardnotes.com>***  docker  
+***<https://app.standardnotes.com>***  self-hosted docker  
 **<https://to-do.live.com/tasks/myday>**  
 <https://onedrive.live.com/login>  **<https://onedrive.live.com>**  cry  
 <https://outlook.live.com/calendar>  
@@ -21,6 +20,7 @@ web app first  /  if od quit  /  if cloud quit use QtScrcpy&wetype/ftp
 **<https://app.raindrop.io>**  
 **<https://www.icloud.com>**  
 ________________________________________________-  
+*<https://www.alipan.com/drive/home>*  cry  
 *<https://docs.qq.com>*  
 *<https://www.weiyun.com>*  
 <https://pan.baidu.com>  
