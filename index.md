@@ -61,7 +61,7 @@ ________________________________________________
 <https://app.capacities.io>  
 <https://larksuite.com/drive/home>  
 ________________________________________________  
-<https://www.zoho.com/>  
-~~<https://simplenote.com/>~~  
+<https://www.zoho.com>  
+~~<https://simplenote.com>~~  
 ________________________________________________  
 ~~<https://tt5.ttcl.cc/search>~~  
