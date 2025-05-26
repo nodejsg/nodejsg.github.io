@@ -20,7 +20,7 @@ web app first  /  if od quit  /  if cloud quit use QtScrcpy&wetype/ftp
 **<https://app.raindrop.io>**  
 **<https://www.icloud.com>**  
 ________________________________________________-  
-*<https://www.alipan.com/drive/home>*  cry  
+*<https://www.alipan.com/drive/home>*  
 *<https://docs.qq.com>*  
 *<https://www.weiyun.com>*  
 <https://pan.baidu.com>  
