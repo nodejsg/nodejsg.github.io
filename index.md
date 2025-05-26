@@ -1,32 +1,34 @@
 # INFINITI Harōkiti cloud
 tp01-go22343234  
-——  
+________________________________________________  
 <https://www.hao123.com>  
 <https://123.sogou.com>  
 <https://123.quark.cn>  
 <https://hao.360.com>  
 <https://global.bing.com/?setmkt=en-US&setlang=en/translator>  
-________________________________________________-    
+\\  
+________________________________________________    
 ***<https://www.kdocs.cn/share>***  cry/nas  
 **<https://dida365.com/webapp>**  
 ________________________________________________  
 web app first  /  if od quit  /  if cloud quit use QtScrcpy&wetype/ftp  
-***<https://app.standardnotes.com>***  self-hosted docker  
-**<https://to-do.live.com/tasks/myday>**  
-<https://onedrive.live.com/login>  **<https://onedrive.live.com>**  cry  
+***<https://app.standardnotes.com>***  cry/self-hosted(docker)  
+**<https://to-do.live.com/tasks/myday>**  nas
+<https://onedrive.live.com/login>  **<https://onedrive.live.com>**  cry/nas  
 <https://outlook.live.com/calendar>  
-\\  
+________________________________________________  
 *<https://accounts.firefox.com>*  
 **<https://app.raindrop.io>**  
 **<https://www.icloud.com>**  
-________________________________________________-  
+________________________________________________  
 *<https://www.alipan.com/drive/home>*  
 *<https://docs.qq.com>*  
 *<https://www.weiyun.com>*  
 <https://pan.baidu.com>  
 <https://mail.163.com>  
 <https://mail.qq.com>  
-________________________________________________~~  
+\\  
+________________________________________________  
 <https://www.deepseek.com>  
 <https://www.n.cn>  
 <https://www.douyin.com>  
