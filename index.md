@@ -7,7 +7,7 @@ tp01-go22343234
 <https://hao.360.com>  
 <https://global.bing.com/?setmkt=en-US&setlang=en/translator>  
 ________________________________________________-    
-***<https://www.kdocs.cn/share>***  nas  
+***<https://www.kdocs.cn/share>***  cry/nas  
 **<https://dida365.com/webapp>**  
 ________________________________________________  
 web app first  /  if od quit  /  if cloud quit use QtScrcpy&wetype/ftp  
