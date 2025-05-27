@@ -1,5 +1,5 @@
 # INFINITI Harōkiti cloud  
-*github alternatives gitea*  
+*github alternatives*  
 tp01-go22343234  
 ________________________________________________  
 <https://www.hao123.com>  
