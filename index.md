@@ -16,6 +16,7 @@ web app first  /  if od quit  /  if cloud quit use QtScrcpy&wetype/ftp
 **<https://to-do.live.com/tasks/myday>**  cry(documents)/nas  
 <https://onedrive.live.com/login>  **<https://onedrive.live.com>**  cry/nas  
 <https://outlook.live.com/calendar>  
+\\  
 ________________________________________________  
 *<https://accounts.firefox.com>*  
 **<https://app.raindrop.io>**  
