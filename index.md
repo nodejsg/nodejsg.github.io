@@ -7,7 +7,7 @@ ________________________________________________
 <https://123.quark.cn>  
 <https://hao.360.com>  
 <https://global.bing.com/?setmkt=en-US&setlang=en/translator>  
-\\  
+\\\  
 ________________________________________________  
 ***<https://www.kdocs.cn/share>***  cry/nas  
 **<https://dida365.com/webapp>**  
@@ -17,7 +17,7 @@ web app first  /  if od quit  /  if cloud quit use QtScrcpy&wetype/ftp
 **<https://to-do.live.com/tasks/myday>**  cry(documents)/nas  
 <https://onedrive.live.com/login>  **<https://onedrive.live.com>**  cry/nas  
 <https://outlook.live.com/calendar>  
-\\  
+\\\  
 ________________________________________________  
 *<https://accounts.firefox.com>*  
 **<https://app.raindrop.io>**  
@@ -29,7 +29,7 @@ ________________________________________________
 <https://pan.baidu.com>  
 <https://mail.163.com>  
 <https://mail.qq.com>  
-\\  
+\\\  
 ________________________________________________  
 <https://www.deepseek.com>  
 <https://www.n.cn>  
